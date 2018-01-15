@@ -1,0 +1,5 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/vidushisharma/IdeaProjects/FileCount/src/main/scala/FolderScannerActor.scala:46:21: non-variable type argument String in type pattern List[String] (the underlying of List[String]) is unchecked since it is eliminated by erasure[0m
+[0m[[0m[33mwarn[0m] [0m[0m    case wordsList: List[String] => {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere was one deprecation warning (since 2.11.0); re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m
